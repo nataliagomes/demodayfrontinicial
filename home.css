@@ -1,0 +1,44 @@
+/*.Imagem {background: url(img/VI.jpg) no-repeat;}
+
+ 
+
+body {margin: 0pt auto;background: url(img/VI.jpg) repeat-x;}
+
+ 
+
+a img{border: 0px none;} */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-image: url(img/povos-diminutos-os-viajantes-estão-no-mundo-do-mapa-andando-ao-destino-uso-como-um-conceito-da-viagem-de-negócios-107353701.jpg);
+    background-size: 1300px;
+}
+
+
+
+h1 { 
+    margin-left: 500px; 
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.menu {
+    margin-left: 440px;
+    opacity: 8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+.subtitulo {
+ display: flex;
+ margin-left: 500px; 
+ font-size: 20px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    margin-left: 420px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
